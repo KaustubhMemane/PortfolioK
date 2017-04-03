@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\kmema\Documents\project 2\project 5\PortfolioK\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\kmema\Documents\project 2\project 5\PortfolioK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.0_4193d5d3addfe4ffe3f583bea1003ba2a024b595\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kmema\Documents\project 2\project 5\PortfolioK\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Users\kmema\Documents\project 2\project 5\PortfolioK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.0_f0990cdf242d8998cf2809a0717a490afa1ac72b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kmema\Documents\project 2\project 5\PortfolioK\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="876d7c6f5701009bc833b64c6b8c3b4e259024cd">
+        <dex dex="C:\Users\kmema\Documents\project 2\project 5\PortfolioK\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_fd7d52a752ab3dab04efaa9ab0fa530a5ca84f50\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kmema\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\kmema\Documents\project 2\project 5\PortfolioK\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_f7708167508476b7280aa19258486a45e426a700\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kmema\Documents\project 2\project 5\PortfolioK\app\build\intermediates\exploded-aar\com.android.support\design\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="C:\Users\kmema\Documents\project 2\project 5\PortfolioK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.3.0_4313d0a0120e12eb7953e1d874a361ca19834f76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kmema\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\kmema\Documents\project 2\project 5\PortfolioK\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_4eafafe4be47e235da30b82aa207ace8d99107d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kmema\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="C:\Users\kmema\Documents\project 2\project 5\PortfolioK\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.0_e1efcd01ad8e1039135fc19313cb9f66a9a9d770\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kmema\Documents\project 2\project 5\PortfolioK\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="C:\Users\kmema\Documents\project 2\project 5\PortfolioK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.3.0_eb1f5d42e3af2ff4dbb9fd84df3b6f037974a3cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kmema\Documents\project 2\project 5\PortfolioK\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Users\kmema\Documents\project 2\project 5\PortfolioK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.0_80c0f92a57b8669f7ffb93a4ffdee3901b2c996d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kmema\Documents\project 2\project 5\PortfolioK\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Users\kmema\Documents\project 2\project 5\PortfolioK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.0_bae5d30fdf93ce1fe8538aa2e324eabe7c3e6ae1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kmema\Documents\project 2\project 5\PortfolioK\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\Users\kmema\Documents\project 2\project 5\PortfolioK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.0_bad48c51b965c650c054716adf71245986ce0ed9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kmema\Documents\project 2\project 5\PortfolioK\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5d103b270b3f3b50d8e6b44aa8e068b0de33426">
+        <dex dex="C:\Users\kmema\Documents\project 2\project 5\PortfolioK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.3.0_20952455edade537642b3f45788b281d0fa5efc3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kmema\Documents\project 2\project 5\PortfolioK\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\kmema\Documents\project 2\project 5\PortfolioK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.0_d0d208e7acc903fe3c8f6732d4a8cfaeb0dbbd9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kmema\Documents\project 2\project 5\PortfolioK\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="C:\Users\kmema\Documents\project 2\project 5\PortfolioK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.3.0_0fda456e046951931ea373d37adc3e7ddee4e77e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kmema\Documents\project 2\project 5\PortfolioK\app\build\intermediates\exploded-aar\com.android.support\preference-v7\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7d143337848b55ac01ff2b6ff316a61250eed2ed">
+        <dex dex="C:\Users\kmema\Documents\project 2\project 5\PortfolioK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-preference-v7-25.3.0_eaee48ff5368c50367e1cc506bbb96c37a33956c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kmema\Documents\project 2\project 5\PortfolioK\app\build\intermediates\exploded-aar\com.android.support\palette-v7\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec3360994c4007c282a4b651723603e82682b601">
+        <dex dex="C:\Users\kmema\Documents\project 2\project 5\PortfolioK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-25.3.0_fd02904dca107c069ba24edb54395a8aa40c0b9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kmema\Documents\project 2\project 5\PortfolioK\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Users\kmema\Documents\project 2\project 5\PortfolioK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.0_9f6eacab0bf31a18f541123a9647b35a96e70635\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kmema\Documents\project 2\project 5\PortfolioK\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\kmema\Documents\project 2\project 5\PortfolioK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.2_2e7b21eacd67a5bbb411a37e2dd7c27df507eb28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kmema\Documents\project 2\project 5\PortfolioK\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\Users\kmema\Documents\project 2\project 5\PortfolioK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.0_f6e64cd8ebb047240e9a244d00c0d96783035e3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kmema\Documents\project 2\project 5\PortfolioK\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Users\kmema\Documents\project 2\project 5\PortfolioK\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.0_c8e0f1270d130b31f26653f37170376db0502fa7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\kmema\Documents\project 2\project 5\PortfolioK\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d70465b1beeb84c491df11f39b538982223f01e">
+        <dex dex="C:\Users\kmema\Documents\project 2\project 5\PortfolioK\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_12917d7b648a6555445ef894b6a9d67d82627117\classes.dex" />
+    </item>
+
+</items>
